@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  Run your own private ChatGPT-like experience on your local network.<br>
+  Run your own private AI chat experience on your local network.<br>
   No cloud services. No subscriptions. No data leaving your home.
 </p>
 
