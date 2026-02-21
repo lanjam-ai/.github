@@ -9,9 +9,8 @@
 </p>
 
 <p align="center">
-  <a href="https://lanjam.ai">Website</a> &middot;
-  <a href="https://lanjam.ai/downloads">Download</a> &middot;
-  <a href="https://lanjam.ai/help">Documentation</a>
+  <a href="https://www.lanjam.dev">Website</a> &middot;
+  <a href="https://www.lanjam.dev/help">Documentation</a>
 </p>
 
 ---
@@ -31,9 +30,7 @@ LanJAM gives your family a shared AI assistant that runs entirely on your own ha
 | Repo | Description |
 |------|-------------|
 | [**lanjam-chat**](https://github.com/lanjam-ai/lanjam-chat) | The main application — React frontend, API, database, and Docker infrastructure |
-| [**lanjam-installer**](https://github.com/lanjam-ai/lanjam-installer) | One-command installer script for quick setup |
 | [**lanjam-docs**](https://github.com/lanjam-ai/lanjam-docs) | Shared help documentation package (published to GitHub Packages) |
-| [**lanjam-site**](https://github.com/lanjam-ai/lanjam-site) | Marketing website at [lanjam.ai](https://lanjam.ai) |
 
 ### Built With
 
